@@ -1,0 +1,1 @@
+This project is a responsive and visually appealing landing page designed to showcase a vacation destination. It aims to attract visitors with stunning images, engaging content, and a user-friendly layout. The landing page includes essential information such as destination highlights, accommodation options, and a call-to-action to encourage visitors to book their next vacation.
